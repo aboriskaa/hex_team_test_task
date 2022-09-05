@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hex_team_test_task/static/css/main.2918e647.css",
-    "main.js": "/hex_team_test_task/static/js/main.5b143ee6.js",
+    "main.js": "/hex_team_test_task/static/js/main.dbbf8ee0.js",
     "index.html": "/hex_team_test_task/index.html",
     "main.2918e647.css.map": "/hex_team_test_task/static/css/main.2918e647.css.map",
-    "main.5b143ee6.js.map": "/hex_team_test_task/static/js/main.5b143ee6.js.map"
+    "main.dbbf8ee0.js.map": "/hex_team_test_task/static/js/main.dbbf8ee0.js.map"
   },
   "entrypoints": [
     "static/css/main.2918e647.css",
-    "static/js/main.5b143ee6.js"
+    "static/js/main.dbbf8ee0.js"
   ]
 }
