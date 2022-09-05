@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hex-test-task"
+  },
+  "hosting": {
+    "public": "build",
+    "rewrites": [
+      {
+        "source": "!{/bower_components,/src}/**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
