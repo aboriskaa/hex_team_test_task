@@ -1,3 +1,9 @@
+# Развернут проект на [Firebase](https://hex-test-task.web.app/), но из-за отсутсвия HTTPS на ресурсе 79.143.31.216, доступ к API ограничен.
+При разворачивании проекта на localhost, весь функционал, включая дополнительный - работает.
+
+(Mixed Content: The page at 'https://hex-test-task.web.app/login' was loaded over HTTPS, but requested an insecure resource 'http://79.143.31.216/login'. This request has been blocked; the content must be served over HTTPS.)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
