@@ -3,6 +3,15 @@
 
 (Mixed Content: The page at 'https://hex-test-task.web.app/' was loaded over HTTPS, but requested an insecure resource 'http://79.143.31.216/login'. This request has been blocked; the content must be served over HTTPS.)
 
+How to fix your website
+The best strategy to avoid mixed content blocking is to serve all the content as HTTPS instead of HTTP.
+
+For your own domain, serve all content as HTTPS and fix your links. Often, the HTTPS version of the content already exists and this just requires adding an "s" to links - http:// to https://.
+
+However, in some cases, the path may just be incorrect to the media in question. There are online as well as offline tools (depending on your operating system) such as link checker to help resolve this.
+
+For other domains, use the site's HTTPS version if available. If HTTPS is not available, you can try contacting the domain and asking them if they can make the content available via HTTPS.
+
 
 # Getting Started with Create React App
 
